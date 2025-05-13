@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm KGeri201
 
-<!--
-**KGeri201/KGeri201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to build simple hardware and software projects for myself and I like to publish them for anybody to use and improve.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KGeri201&layout=compact&theme=github_dark)  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KGeri201&show_icons=true&theme=github_dark)  
+
+---
+
+⭐️ Don't forget to star your favorite projects!
